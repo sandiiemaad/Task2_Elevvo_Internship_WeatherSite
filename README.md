@@ -22,3 +22,4 @@ A modern, user-friendly web application that displays current weather, 5-day for
 ## 📸 Screenshots
 
 > ![image alt](https://github.com/sandiiemaad/Task2_Elevvo_Internship_WeatherSite/blob/a9ce6d80d6670d3959b52c1f5082925a3f928f4a/Screenshot%20(390).png)
+> ![image alt](https://github.com/sandiiemaad/Task2_Elevvo_Internship_WeatherSite/blob/030ac78d232986387813e0ccad2c72622aab70eb/Screenshot%20(391).png).
