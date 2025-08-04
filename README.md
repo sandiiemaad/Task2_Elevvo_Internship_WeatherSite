@@ -21,7 +21,4 @@ A modern, user-friendly web application that displays current weather, 5-day for
 
 ## 📸 Screenshots
 
-> Add screenshots here like:
-> ![Screenshot](screenshots/dashboard.png)
-   ```bash
-   git clone https://github.com/yourusername/weather-dashboard.git
+> ![image alt]([screenshots/dashboard.png](https://github.com/sandiiemaad/Task2_Elevvo_Internship_WeatherSite/blob/main/Screenshot%20(390).png?raw=true))
